@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp\\blazorwasmapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|solutionrelative:blazorwasmapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp\\staticwebapp.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|solutionrelative:staticwebapp.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp\\wwwroot\\icon-192.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|solutionrelative:wwwroot\\icon-192.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +35,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BlazorWasmApp",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\BlazorWasmApp.csproj",
+              "RelativeDocumentMoniker": "BlazorWasmApp.csproj",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\BlazorWasmApp.csproj",
+              "RelativeToolTip": "BlazorWasmApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T14:15:39.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-14T13:17:14.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T13:17:06.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "icon-192.png",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\wwwroot\\icon-192.png",
+              "RelativeDocumentMoniker": "wwwroot\\icon-192.png",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\wwwroot\\icon-192.png",
+              "RelativeToolTip": "wwwroot\\icon-192.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-14T13:10:50.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "staticwebapp.config.json",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\staticwebapp.config.json",
               "RelativeDocumentMoniker": "staticwebapp.config.json",
