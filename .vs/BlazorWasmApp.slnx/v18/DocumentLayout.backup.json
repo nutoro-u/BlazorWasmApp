@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp\\staticwebapp.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7062CCD-1622-3806-EA57-EB94EE2AF50B}|BlazorWasmApp.csproj|solutionrelative:staticwebapp.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "staticwebapp.config.json",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\staticwebapp.config.json",
+              "RelativeDocumentMoniker": "staticwebapp.config.json",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp\\staticwebapp.config.json",
+              "RelativeToolTip": "staticwebapp.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T13:08:13.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
